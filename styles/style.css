@@ -1,0 +1,36 @@
+*{
+	border-sizing: border-box;
+	background-color: #000000;
+	height: auto;
+}
+.head{
+	color: blue;
+	float: left;
+	width: 50%;
+
+}
+.icons{
+	
+}
+
+.icons li{
+	width: 50%
+	list-style-type: none;
+	color: red;
+	float: left;
+	padding: 20px;
+}
+.container_1{
+	color: white;
+	background-color: slategray;
+	
+	margin-top: 20px;
+}
+.#1{
+	width: 100%
+	margin: 30px;
+	color: purple;
+	background-color: purple;
+	width: 70%;
+	text-align: center;
+}
