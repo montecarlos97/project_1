@@ -1,7 +1,8 @@
 *{
 	border-sizing: border-box;
+}
+body{
 	background-color: #000000;
-	height: auto;
 }
 .head{
 	color: blue;
